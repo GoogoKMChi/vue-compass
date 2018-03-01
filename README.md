@@ -1,6 +1,6 @@
 # compass
 
-> A demo for useing compass in vue project
+> A demo for useing compass in vue project [在SegmentFault查看使用方法](https://segmentfault.com/a/1190000013474614)
 
 ## Build Setup
 
