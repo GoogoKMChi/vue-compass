@@ -1,0 +1,9 @@
+@import "scss/index";
+@import "../../../node_modules/compass-mixins/lib/compass/css3/images";
+html{
+  height: 100%;
+  body{
+    @include background(linear-gradient(to bottom right, #ccfcff, #b3fffd),radial-gradient(#c00, #fff 100px));
+  }
+}
+
